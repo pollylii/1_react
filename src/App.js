@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
+// 函数定义组件
 function App() {
   return (
     <div className="App">
@@ -21,5 +22,5 @@ function App() {
     </div>
   );
 }
-
+//  暴露组件
 export default App;

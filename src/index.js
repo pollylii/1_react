@@ -4,7 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// 入口文件
+
 ReactDOM.render(
+  // React.StrictMode 用以标记出应用中潜在问题
   <React.StrictMode>
     <App />
   </React.StrictMode>,
